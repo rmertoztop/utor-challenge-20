@@ -17,19 +17,19 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
   
-Accuracy Score: 0.99
-Precision Score: 0.85
-Recall Score: 0.91
-F1-Score: 0.88
+* Accuracy Score: 0.99
+* Precision Score: 0.85
+* Recall Score: 0.91
+* F1-Score: 0.88
 
 
 * Machine Learning Model 2:
   * Description of Model 2 Accuracy, Precision, and Recall scores.
 
-Accuracy Score: 0.99
-Precision Score: 0.84
-Recall Score: 0.99
-F1-Score: 0.91
+* Accuracy Score: 0.99
+* Precision Score: 0.84
+* Recall Score: 0.99
+* F1-Score: 0.91
 
 ## Summary
 
